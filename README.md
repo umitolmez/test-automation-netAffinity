@@ -83,4 +83,5 @@ Improvements & Suggestions
 3. Reporting: If the management does not like the reports generated, a different reporting tool can be tried.
 4. Browser Actions: Methods such as hover over, click with js can be added.
 5. Rerun: A file can be created to rerun failed test cases.
+6. Branch Strategy: I did not pay attention to commit and branch issues because I was working alone on this project. Branch strategy would be better in terms of traceability.
 ---
