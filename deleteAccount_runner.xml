@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Net Affinity Automation Task" verbose="1">
+    <test name="Delete Account Functionality">
+        <classes>
+            <class name="com.myFacebookAccounts.tests.deleteAccount">
+            </class>
+        </classes>
+    </test>
+</suite>
